@@ -1,9 +1,12 @@
-# nc
-install nc for docker kali 
+# Installation de NC (Netcat) pour Kali / Docker
+
+Ce script installe une version binaire statique de Netcat. Utile si l'installation classique pose problème.
 
 ## 1. Récupérer l'outil
- ````bash 
-wget https://raw.githubsercontent.com/SamouraiTV/nc/nc64
+Assurez-vous d'avoir `wget` (sinon `sudo apt install wget`).
+
+```bash
+wget https://raw.githubusercontent.com/SamouraiTV/nc/main/nc64
 ````
 ## 2. donner les permission executable
 ````bash 
