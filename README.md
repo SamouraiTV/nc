@@ -1,4 +1,4 @@
-# Installation de NC (Netcat) pour Kali / Docker
+# Installation de NC (Netcat) pour le docker Kali 
 
 Ce script installe une version binaire statique de Netcat. Utile si l'installation classique pose problème.
 
